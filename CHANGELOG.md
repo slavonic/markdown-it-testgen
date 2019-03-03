@@ -1,3 +1,10 @@
+0.2.0 / 2019-03-03
+------------------
+
+- Updated dependencies
+- Replaced obsolete coverage tool with actual one
+
+
 0.1.4 / 2015-01-12
 ------------------
 
