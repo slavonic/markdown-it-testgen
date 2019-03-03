@@ -1,7 +1,7 @@
 # markdown-it-testgen
 
-[![Build Status](https://img.shields.io/travis/markdown-it/markdown-it-testgen/master.svg?style=flat)](https://travis-ci.org/markdown-it/markdown-it-testgen)
-[![NPM version](https://img.shields.io/npm/v/markdown-it-testgen.svg?style=flat)](https://www.npmjs.org/package/markdown-it-testgen)
+[![Build Status](https://img.shields.io/travis/slavonic/markdown-it-testgen/master.svg?style=flat)](https://travis-ci.org/markdown-it/markdown-it-testgen)
+[![NPM version](https://img.shields.io/npm/v/@pgmmpk/markdown-it-testgen.svg?style=flat)](https://www.npmjs.org/package/markdown-it-testgen)
 
 
 > This package parses fixtures in commonmark spec format and generates tests for
@@ -67,5 +67,5 @@ For each loaded file - parse and pass data to iterator functions. Currently used
 
 ## License
 
-[MIT](https://github.com/markdown-it/markdown-it-testgen/blob/master/LICENSE)
+[MIT](https://github.com/slavonic/markdown-it-testgen/blob/master/LICENSE)
 
