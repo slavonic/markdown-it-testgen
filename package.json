@@ -1,5 +1,5 @@
 {
-  "name": "markdown-it-testgen",
+  "name": "@pgmmpk/markdown-it-testgen",
   "version": "0.2.0",
   "description": "Tests generator for markdown-it markdown parser",
   "keywords": [

@@ -10,7 +10,7 @@
 
 
 ```bash
-npm install markdown-it-testgen
+npm install @pgmmpk/markdown-it-testgen
 ```
 
 
