@@ -1,7 +1,7 @@
 # markdown-it-testgen
 
-[![Build Status](https://img.shields.io/travis/slavonic/markdown-it-testgen/master.svg?style=flat)](https://travis-ci.org/markdown-it/markdown-it-testgen)
-[![NPM version](https://img.shields.io/npm/v/@pgmmpk/markdown-it-testgen.svg?style=flat)](https://www.npmjs.org/package/markdown-it-testgen)
+[![Build Status](https://img.shields.io/travis/slavonic/markdown-it-testgen/master.svg?style=flat)](https://travis-ci.org/slavonic/markdown-it-testgen)
+[![NPM version](https://img.shields.io/npm/v/@pgmmpk/markdown-it-testgen.svg?style=flat)](https://www.npmjs.org/package/@pgmmpk/markdown-it-testgen)
 
 
 > This package parses fixtures in commonmark spec format and generates tests for
