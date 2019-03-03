@@ -19,8 +19,8 @@ test: lint
 	mocha -R spec
 
 coverage:
-	rm -rf coverage
-	istanbul cover node_modules/.bin/_mocha
+	rm -rf .nyc_output/
+	nyc npm test
 
 .PHONY: lint test  coverage
 .SILENT: lint test
